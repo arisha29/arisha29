@@ -2,7 +2,7 @@
 
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWh1aDY5bDd6cWcwb291OHc4NjU3ZDR6ODMxaDU0czNjcTdjbmc5byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp" width="400" align="right"/>
   
-<h2 align="left">🔗 BUILDING & ENGAGING THE COMMUNITY</h2>
+<h4 align="left">🔗 BUILDING & ENGAGING THE COMMUNITY</h4>
 
 - 👩🏻‍💻 I'm a Frontend Developer from Pakistan.
 - 🌱 I’m currently learning Angular 18.
