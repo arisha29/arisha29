@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Angular 18.
 - 🚀 I'm a consistent, hard-working, and motivated person.
 - 🌐 My expertise in HTML, CSS, JavaScript, tailwindcss, Bootstrap, ReactJs.
-- ✨ I have 1 year of tech experience Frontend Development.
+- ✨ I am currently gaining experience in Frontend Development.
 
 <hr />
 
