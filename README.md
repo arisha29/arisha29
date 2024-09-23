@@ -4,11 +4,11 @@
   
 <h4 align="left">🔗 BUILDING & ENGAGING THE COMMUNITY</h4>
 
-- 👩🏻‍💻 I'm a Frontend Developer from Pakistan.
-- 🌱 I’m currently learning Angular 18.
-- 🚀 I'm a consistent, hard-working, and motivated person.
-- 🌐 My expertise in HTML, CSS, JavaScript, tailwindcss, Bootstrap, ReactJs.
-- ✨ I am currently gaining experience in Frontend Development.
+- I'm a Frontend Developer from Pakistan.
+- I’m currently learning Angular 18.
+- I'm a consistent, hard-working, and motivated person.
+- My expertise in HTML, CSS, JavaScript, tailwindcss, Bootstrap, ReactJs.
+- I am currently gaining experience in Frontend Development.
 
 <hr />
 
