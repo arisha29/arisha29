@@ -6,4 +6,4 @@
 - I’m currently learning Backend.
 - I'm a consistent, hard-working, and motivated person.
 - My expertise in HTML, CSS, JavaScript, tailwindcss, Bootstrap, ReactJs.
-- I am currently gaining experience in Frontend Development.
+- I am currently gaining experience in Web Development.
